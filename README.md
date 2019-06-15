@@ -1,2 +1,3 @@
 # Statistical-Machine-Learning
-EM, HMM, Kalman Filter, Particle Filter, CRF, MEMM
+[EM](https://nbviewer.jupyter.org/)
+HMM, Kalman Filter, Particle Filter, CRF, MEMM
